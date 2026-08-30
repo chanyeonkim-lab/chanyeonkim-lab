@@ -1,4 +1,4 @@
-# Hi, I'm Chanyeon Kim 👋 | 김찬연입니다 👋
+# Hi, I'm Chanyeon Kim  👋
 
 **Solution Engineer** | **Enterprise AI Adoption Leader** 
 

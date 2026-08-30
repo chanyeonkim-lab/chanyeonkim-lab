@@ -1,6 +1,6 @@
 # Hi, I'm Chanyeon Kim 👋 | 김찬연입니다 👋
 
-**Enterprise AI Adoption Leader** | **Customer Zero Award Winner** | **AI 도입 전문가**
+**Solution Engineer** | **Enterprise AI Adoption Leader** 
 
 I spend my career getting enterprise AI past the hardest part — not the demo, but the security review, the skeptical overseas team, and the twentieth training session.
 
@@ -58,6 +58,7 @@ Helped enterprises avoid the most common AI failure mode: shipping models with b
 [![Claude](https://img.shields.io/badge/-Claude-0D47A1?style=flat-square&logo=anthropic&logoColor=white)](https://claude.ai)
 [![Anthropic](https://img.shields.io/badge/-Anthropic-1f2937?style=flat-square&logoColor=white)](https://anthropic.com)
 [![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com)
+[![Gemini](https://img.shields.io/badge/-Gemini-FF6D04?style=flat-square&logo=google&logoColor=white)](https://gemini.google.com)
 
 **Enterprise Platforms**  
 [![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)](https://salesforce.com)

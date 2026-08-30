@@ -2,19 +2,17 @@
 
 **Solution Engineer** | **Enterprise AI Adoption Leader** 
 
-I spend my career getting enterprise AI past the hardest part — not the demo, but the security review, the skeptical overseas team, and the twentieth training session.
-
-엔터프라이즈가 AI를 실제로 쓰게 만드는 일을 합니다. 기술이 아니라 조직이 문제입니다.
+I've sat on three sides of enterprise technology — as the buyer, the builder, and the one who had to make people actually use it. That's the lens I bring to AI adoption now.
 
 ---
 
 ## About Me
 
-14년간 엔터프라이즈 기술 도입을 주도해온 Solutions Engineer로, 지난 5년간 한국 최대 기업들(LG Electronics, Samsung Electronics, Hyundai Motor Group)의 데이터 기반 AI 전환을 설계 및 실행했습니다.
+14년간 엔터프라이즈 기술 도입을 주도해온 Solutions Engineer로, 지난 6년간 한국 최대 기업들(LG Electronics, Samsung Electronics, Hyundai Motor Group)의 데이터 기반 AI 전환을 설계 및 실행했습니다.
 
 **What I actually do:**
-- 기업의 가장 까다로운 AI 도입을 프로덕션까지 밀어냅니다 (PoC → Pilot → Production)
-- 보안팀, 해외법인, 회의주의적인 경영진 사이에서 정렬합니다
+- 가장 까다로운 기업들의 AI 도입을 PoC, 프로덕션과 지속적인 활용으로 유도합니다 (PoC → Pilot → Production)
+- 보안팀, 해외법인, 회의주의적인 경영진 각 Stakeholder에 맞추어 설득합니다
 - 데이터 품질이 AI 성공을 가르는 이유를 깊게 압니다
 - 조직 전체에 AI를 배우고 쓰게 만들기 위해 enablement를 설계합니다
 

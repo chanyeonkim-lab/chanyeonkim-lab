@@ -2,51 +2,20 @@
 
 **Solution Engineer** | **Enterprise AI Adoption Leader** 
 
-I've sat on three sides of enterprise technology — as the buyer, the builder, and the one who had to make people actually use it. That's the lens I bring to AI adoption now.
-
----
-
 ## About Me
 
-14년간 엔터프라이즈 기술 도입을 주도해온 Solutions Engineer로, 지난 6년간 한국 최대 기업들(LG Electronics, Samsung Electronics, Hyundai Motor Group)의 데이터 기반 AI 전환을 설계 및 실행했습니다.
+I've spent 14 years in enterprise tech, most of it figuring out why good technology doesn't get used. For the last 6 years, that's meant designing and driving data-led AI adoption at Korea's largest enterprises — LG Electronics, Samsung Electronics, and Hyundai Motor Group.
 
 **What I actually do:**
-- 가장 까다로운 기업들의 AI 도입을 PoC, 프로덕션과 지속적인 활용으로 유도합니다 (PoC → Pilot → Production)
-- 보안팀, 해외법인, 회의주의적인 경영진 각 Stakeholder에 맞추어 설득합니다
-- 데이터 품질이 AI 성공을 가르는 이유를 깊게 압니다
-- 조직 전체에 AI를 배우고 쓰게 만들기 위해 enablement를 설계합니다
+- Move the toughest enterprise AI initiatives from PoC to pilot to production — and keep them in active use
+- Win over every stakeholder that matters: security teams, overseas subsidiaries, skeptical executives — each with a different argument
+- Understand, at a practical level, why data quality is what actually determines whether AI succeeds
+- Design enablement programs that get entire organizations to actually learn and use AI, not just approve it
 
 **What makes me different:**
-- **Buyer** × **Builder** × **AI Adopter** — 세 위치를 다 거쳤기에, 그 사이의 틈이 뭔지 압니다
-- Data Lake, Master Data Management, Real-time Pipeline부터 LLM governance까지, 데이터의 전 스택을 봐왔습니다
-- 단순히 "AI 괜찮다"가 아니라, "왜 안 되는지, 어떻게 되게 할 것인지"를 이해합니다
-
----
-
-## 🏆 Recognition
-
-- **JPKT Solutions Customer Zero Award (Aug 2026)** — Built a gamified AI learning tool for enterprise adoption workshops (Super Mario–style gameplay)
-- **Salesforce Korea Women's Network VP** — Leading cross-company AI adoption initiatives
-- **Women Leaders in AI Panel** — Spoke with Microsoft, AWS, Google engineers on career, AI, and wellbeing (July 2026)
-
----
-
-## 💼 Key Projects & Experience
-
-### LG Electronics — Global CDP Adoption at Scale
-*5-year adoption journey across 20 countries, 30 automation programs, 200M+ customer profiles*
-
-Moved LG from fragmented regional systems to unified global CDP — not just selecting the platform, but getting every regional team to actually use it. This is the work I love: PoC to production to expansion.
-
-### Hyundai Motor Group — AI Agent Deployment (First Global)
-*3 PoC cycles over 6 months → Live in US contact center (June 2026)*
-
-Navigated the most stringent internal AI security review in Korean automotive, cleared enterprise governance, and trained overseas subsidiary teams through ~20 enablement sessions. The key lesson: AI adoption isn't about features—it's about proving value, then scaling trust.
-
-### Data-First Approach
-Helped enterprises avoid the most common AI failure mode: shipping models with bad data.
-- Samsung Electronics: Overcame a deal-blocking Data Spaces cost objection through governance-based architecture design
-- Led enterprise security reviews for AI and data protection compliance (ISMS, AI Gateway)
+- **Buyer × Builder × AI Adopter** — I've sat on all three sides of enterprise technology, which means I know exactly where things fall apart between them
+- I've worked the full data stack — data lakes, master data management, real-time pipelines — all the way up to LLM governance
+- I don't just say "AI works." I can tell you why it doesn't, and what it actually takes to make it work
 
 ---
 

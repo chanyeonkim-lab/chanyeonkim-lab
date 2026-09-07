@@ -55,8 +55,8 @@ I've spent 14 years in enterprise tech, most of it figuring out why good technol
 
 Short, evidence-based write-ups from the ground — what actually gets in the way of enterprise AI adoption, and what has worked.
 
-- **[Same CRM, twelve countries, twelve different realities](https://github.com/chanyeonkim-lab/field-notes/blob/main/2026-09-crm-maturity-global-rollout.md)** — scoring a global OEM's CRM maturity across 12+ country entities on the same platform. From "the rollout is done" to "what's actually creating value." *(2026-09)*
-- **[The AI ROI number that survives a CFO](https://github.com/chanyeonkim-lab/field-notes/blob/main/2026-09-ai-roi-that-survives.md)** — why enterprise AI decisions stall at the finance-team review, and the systematic methodology I've used across 10+ engagements to unstick them. *(2026-09)*
+- **[Hyundai Motor Application Global Assessment](https://github.com/chanyeonkim-lab/field-notes/blob/main/2026-09-crm-maturity-global-rollout.md)** — an executive-commissioned CRM maturity assessment across Hyundai Motor Group's country entities, delivered at a fraction of a traditional three-month consulting engagement using AI-assisted research. *(2026-09)*
+- **[Enterprise AI doesn't fail one review. It fails four.](https://github.com/chanyeonkim-lab/field-notes/blob/main/2026-09-ai-roi-that-survives.md)** — the multi-executive gate (CFO / CIO / CRM leader / CMO / HR) that quietly decides most enterprise AI investments, and how I answer every seat at the table across 10+ engagements. *(2026-09)*
 - **[ISMS from both sides of the table](https://github.com/chanyeonkim-lab/field-notes/blob/main/2026-09-isms-both-sides.md)** — Korea's government-mandated security certification quietly decides most enterprise AI adoption here. I've sat in both seats. *(2026-09)*
 - **[I built a Super Mario–style game to teach enterprise customers how to use AI](https://github.com/chanyeonkim-lab/field-notes/blob/main/2026-08-customer-zero-award.md)** — how a gamified workshop tool won my region's Customer Zero Award for applied AI at work. *(2026-08)*
 

@@ -10,7 +10,7 @@ I've spent 14 years in enterprise tech, most of it figuring out why good technol
 - Move the toughest enterprise AI initiatives from PoC to pilot to production — and keep them in active use
 - Win over every stakeholder that matters: security teams, overseas subsidiaries, skeptical executives — each with a different argument
 - Understand, at a practical level, why data quality is what actually determines whether AI succeeds
-- Design enablement programs that get entire organizations to actually learn and use AI, not just approve it
+- Design enablement programs that get entire organizations to actually learn and use AI
 
 **What makes me different:**
 - **Buyer × Builder × Enabler** — I've sat on all three sides of enterprise technology, which means I know exactly where things fall apart between them

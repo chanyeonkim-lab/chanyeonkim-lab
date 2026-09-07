@@ -15,8 +15,8 @@ I've spent 14 years in enterprise tech, most of it figuring out why good technol
 **What makes me different:**
 - **Buyer × Builder × Enabler** — I've sat on all three sides of enterprise technology, which means I know exactly where things fall apart between them
 - I've worked the full data stack — data lakes, master data management, real-time pipelines — all the way up to LLM governance
-- Being first isn't new to me: I led Samsung Electronics' first global SaaS project in Korea early in my career, and later sold Salesforce's newly-launched Data Cloud into what became its first deployment at that scale anywhere — at LG Electronics
-  
+- Enterprise AI doesn't stall because the model isn't good enough. It stalls because governance review takes months, and nothing moves until you've quantified the value, passed security review, and gotten real users to say it actually helped.
+
 ---
 
 ## 🛠 What I Use
@@ -48,6 +48,16 @@ I've spent 14 years in enterprise tech, most of it figuring out why good technol
 [![Technical Workshop Facilitation](https://img.shields.io/badge/-Workshop%20Facilitation-FF6D00?style=flat-square&logoColor=white)](#)
 [![Executive Storytelling](https://img.shields.io/badge/-Executive%20Storytelling-FF6D00?style=flat-square&logoColor=white)](#)
 [![Cross-regional Enablement](https://img.shields.io/badge/-Cross--regional%20Enablement-FF6D00?style=flat-square&logoColor=white)](#)
+
+---
+
+## 📓 Field Notes
+
+Short, evidence-based write-ups from the ground — what actually gets in the way of enterprise AI adoption, and what has worked.
+
+- **[I built a Super Mario–style game to teach enterprise customers how to use AI](https://github.com/chanyeonkim-lab/field-notes/blob/main/2026-08-customer-zero-award.md)** — how a gamified workshop tool won my region's Customer Zero Award for applied AI at work. *(2026-08)*
+
+More in the [field-notes repo](https://github.com/chanyeonkim-lab/field-notes).
 
 ---
 

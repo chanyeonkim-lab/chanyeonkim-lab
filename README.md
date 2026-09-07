@@ -13,8 +13,8 @@ I've spent 14 years in enterprise tech, most of it figuring out why good technol
 - Design enablement programs that get entire organizations to actually learn and use AI
 
 **What makes me different:**
-- **Buyer × Builder × Enabler** — I've sat on all three sides of enterprise technology, which means I know exactly where things fall apart between them
-- I've worked the full data stack — data lakes, master data management, real-time pipelines — all the way up to LLM governance
+- **Buyer × Builder × Enabler** — I've sat on all three sides of enterprise technology, which means I know exactly where things fall apart between them.
+- I understand complex enterprise architecture inside out — having worked across the full data stack, from data lakes and real-time pipelines to LLM governance.
 - Enterprise AI doesn't stall because the model isn't good enough. It stalls because governance review takes months, and nothing moves until you've quantified the value, passed security review, and gotten real users to say it actually helped.
 
 ---

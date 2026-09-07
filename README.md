@@ -15,8 +15,8 @@ I've spent 14 years in enterprise tech, most of it figuring out why good technol
 **What makes me different:**
 - **Buyer × Builder × Enabler** — I've sat on all three sides of enterprise technology, which means I know exactly where things fall apart between them
 - I've worked the full data stack — data lakes, master data management, real-time pipelines — all the way up to LLM governance
-- Enterprise AI doesn't stall because the model isn't good enough. It stalls because governance review takes months, and nothing moves until you've quantified the value, passed security review, and gotten real users to say it actually helped.
-
+- Being first isn't new to me: I led Samsung Electronics' first global SaaS project in Korea early in my career, and later sold Salesforce's newly-launched Data Cloud into what became its first deployment at that scale anywhere — at LG Electronics
+  
 ---
 
 ## 🛠 What I Use

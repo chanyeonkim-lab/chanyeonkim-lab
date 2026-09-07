@@ -55,6 +55,7 @@ I've spent 14 years in enterprise tech, most of it figuring out why good technol
 
 Short, evidence-based write-ups from the ground — what actually gets in the way of enterprise AI adoption, and what has worked.
 
+- **[The AI ROI number that survives a CFO](https://github.com/chanyeonkim-lab/field-notes/blob/main/2026-09-ai-roi-that-survives.md)** — why enterprise AI decisions stall at the finance-team review, and the systematic methodology I've used across 10+ engagements to unstick them. *(2026-09)*
 - **[ISMS from both sides of the table](https://github.com/chanyeonkim-lab/field-notes/blob/main/2026-09-isms-both-sides.md)** — Korea's government-mandated security certification quietly decides most enterprise AI adoption here. I've sat in both seats. *(2026-09)*
 - **[I built a Super Mario–style game to teach enterprise customers how to use AI](https://github.com/chanyeonkim-lab/field-notes/blob/main/2026-08-customer-zero-award.md)** — how a gamified workshop tool won my region's Customer Zero Award for applied AI at work. *(2026-08)*
 

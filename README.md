@@ -15,7 +15,7 @@ I've spent 14 years in enterprise tech, most of it figuring out why good technol
 **What makes me different:**
 - **Buyer × Builder × Enabler** — I've sat on all three sides of enterprise technology, which means I know exactly where things fall apart between them
 - I've worked the full data stack — data lakes, master data management, real-time pipelines — all the way up to LLM governance
-- I don't just say "AI works." I can tell you why it doesn't, and what it actually takes to make it work
+- I've watched a well-funded AI initiative sit stalled for months over a security review — and watched it move the moment someone quantified the ROI in the customer's own terms. That's usually the real blocker, not the model.
 
 ---
 

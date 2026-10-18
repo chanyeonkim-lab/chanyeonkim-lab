@@ -1,10 +1,10 @@
 # Hi, I'm Chanyeon Kim  👋
 
-**Solution Engineer** | **Enterprise AI Adoption Leader** 
+**Solution Engineer** | **Enterprise AI Enabler** 
 
 ## About Me
 
-I've spent 14 years in enterprise tech, most of it figuring out why good technology doesn't get used. For the last 6 years, that's meant designing and driving data-led AI adoption at Korea's largest enterprises — LG Electronics, Samsung Electronics, and Hyundai Motor Group.
+I've spent 15 years in enterprise tech, most of it figuring out why good technology doesn't get used. For the last 6 years, that's meant designing and driving data-led AI adoption at Korea's largest enterprises — LG Electronics, Samsung Electronics, and Hyundai Motor Group.
 
 **What I actually do:**
 - Move the toughest enterprise AI initiatives from PoC to pilot to production — and keep them in active use
